@@ -20,4 +20,4 @@ This repository demonstrate how to use Midtrans with Go
 ### This application only demonstrate how to use midtrans with **gopay/shopeepay** with dummy data that already provided. However, you should have understand how it works if you read the `InitDummyData` method carefully, and can change it to make data dynamically based on User input.
 
 # Contact
-Feel free to contact me from my [Instagram Account](https://instagram.com/centwong) or [Linkedin](https://www.linkedin.com/in/vinncent-alexander-wong-493759213/)
+Feel free to contact me from my [Instagram Account](https://instagram.com/centwong_) or [Linkedin](https://www.linkedin.com/in/vinncent-alexander-wong-493759213/)
