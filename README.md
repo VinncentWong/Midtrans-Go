@@ -5,9 +5,11 @@ This repository demonstrate how to use Midtrans with Go
 1. Make sure you have do registration on [Midtrans](https://midtrans.com)
 2. Clone this repository
 3. Type `cd Midtrans-Go`
-4. Then copy this command on your terminal `go build`
-5. Finally, you can run your application with `go run main.go`
-6. Happy coding :dizzy:
+4. Make a .env file and copy all properties from .env.example file to your .env file.
+5. Make sure too that you read the notes that provided on .env.example file
+6. Then copy this command on your terminal `go build`
+7. Finally, you can run your application with `go run main.go`
+8. Happy coding :dizzy:
 
 # Endpoint
 ### This repository only has one endpoint that is 
